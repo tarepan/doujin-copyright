@@ -30,5 +30,9 @@
 | 翻訳兼、翻案権等                         | 27条     |
 | 二次的著作物の利用に関する原著作者の権利 | 28条     |
 
+# 利用/二次創作を原作者が認める権利
+> 著作権法 第六十三条　  
+> 著作権者は、他人に対し、その著作物の利用を許諾することができる。  
+
 # refs
 * [著作権法. e-Gov](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048&openerCode=1)  
